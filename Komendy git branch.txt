@@ -1,0 +1,9 @@
+Komendy git branch -d (Usuwa lokalną gałąź tylko jeśli została wcześniej zmergowana (połączona) z aktualną gałęzią lub HEAD) oraz git branch -D (Wymusza usunięcie lokalnej gałęzi bez sprawdzania, czy została zmergowana.) służą do usuwania lokalnych gałęzi
+
+Komenda git revert służy do odwracania (cofania) skutków konkretnego commitu w Git, bez usuwania historii.
+
+Komenda git rm usuwa plik z indeksu git i dysku a git rm –cached usuwa plik z indeksu git, pozostawiając go na dysku
+
+Polecenie git archive to narzędzie Git, które tworzy archiwa plików z repozytorium.
+
+Komendy oznaczone na czerwono są niebezpieczne, bo zemieniają historię commitów
